@@ -1,0 +1,19 @@
+Renderer info: Intel(R) UHD Graphics version 4.6.0 - Build 27.20.100.9565 from Intel
+Depth buffer bits: 24
+Multisampling enabled
+Adding file system path C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\defaults\assets
+Adding file system path C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\defaults\assets
+Adding file system path C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\id1
+Adding file system package PAK0.PAK
+Adding file system package PAK1.PAK
+Loading document from C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\id1\maps\LavaDrop\Lavadrop.map
+Skipping duplicate property definition: 'activate_goal_no' (line 1054, column 1)
+Loaded entity definition file Teamfortress.fgd
+Loading palette file gfx\palette.lmp
+Loaded texture collection 'C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\id1\maps\LavaDrop\LavaDropPrototype.wad' in 8ms
+Loaded texture collection 'C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\wads\prototype_1_3.wad' in 12ms
+Loaded texture collection 'C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\wads\devqtex_v2.wad' in 3ms
+Loaded texture collection 'C:\Users\Barrett\Desktop\QuakeModTextures\ogro\ogro.wad' in 8ms
+Loaded C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\id1\maps\LavaDrop\Lavadrop.map in 118ms
+Saved C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\id1\maps\LavaDrop\Lavadrop.map in 13ms
+Loaded point file C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\id1\maps\LavaDrop\Lavadrop.pts

@@ -1,0 +1,230 @@
+OS:	Windows 10 Version 2009
+Qt:	5.15.2
+GL_VENDOR:	Intel
+GL_RENDERER:	Intel(R) UHD Graphics
+GL_VERSION:	4.6.0 - Build 27.20.100.9565
+TrenchBroom Version:	2022.1
+TrenchBroom Build:	v2022.1 Release Win64
+Reason:	3221225477
+Stack trace:
+SymInit: Symbol-SearchPath: '.;C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom;C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom;C:\Windows;C:\Windows\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Barrett'
+OS-Version: 6.2.9200 () 0x300-0x1
+C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\TrenchBroom.exe:TrenchBroom.exe (00007FF7F4B60000), size: 7458816 (result: 0), SymType: 'PDB', PDB: '.\TrenchBroom-stripped.pdb', fileVersion: 2022.1.0.0
+C:\Windows\SYSTEM32\ntdll.dll:ntdll.dll (00007FFD95150000), size: 2064384 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ntdll.dll', fileVersion: 6.2.19041.2130
+C:\Windows\System32\KERNEL32.DLL:KERNEL32.DLL (00007FFD94EC0000), size: 782336 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\KERNEL32.DLL', fileVersion: 6.2.19041.2251
+C:\Windows\System32\KERNELBASE.dll:KERNELBASE.dll (00007FFD92C20000), size: 2957312 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\KERNELBASE.dll', fileVersion: 6.2.19041.2193
+C:\Windows\System32\ADVAPI32.dll:ADVAPI32.dll (00007FFD93A60000), size: 712704 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\ADVAPI32.dll', fileVersion: 6.2.19041.2130
+C:\Windows\System32\msvcrt.dll:msvcrt.dll (00007FFD94590000), size: 647168 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\msvcrt.dll', fileVersion: 7.0.19041.546
+C:\Windows\System32\sechost.dll:sechost.dll (00007FFD93B10000), size: 638976 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\sechost.dll', fileVersion: 6.2.19041.1865
+C:\Windows\System32\RPCRT4.dll:RPCRT4.dll (00007FFD93DC0000), size: 1200128 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\RPCRT4.dll', fileVersion: 6.2.19041.1806
+C:\Windows\System32\ucrtbase.dll:ucrtbase.dll (00007FFD93030000), size: 1048576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\ucrtbase.dll', fileVersion: 6.2.19041.789
+C:\Windows\System32\SHELL32.dll:SHELL32.dll (00007FFD93310000), size: 7614464 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\SHELL32.dll', fileVersion: 6.2.19041.2075
+C:\Windows\System32\msvcp_win.dll:msvcp_win.dll (00007FFD92F00000), size: 643072 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\msvcp_win.dll', fileVersion: 6.2.19041.789
+C:\Windows\System32\USER32.dll:USER32.dll (00007FFD93BC0000), size: 1691648 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\USER32.dll', fileVersion: 6.2.19041.2130
+C:\Windows\System32\win32u.dll:win32u.dll (00007FFD929B0000), size: 139264 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\win32u.dll', fileVersion: 6.2.19041.2251
+C:\Windows\System32\GDI32.dll:GDI32.dll (00007FFD94D50000), size: 176128 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\GDI32.dll', fileVersion: 6.2.19041.2130
+C:\Windows\System32\gdi32full.dll:gdi32full.dll (00007FFD92850000), size: 1110016 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\gdi32full.dll', fileVersion: 6.2.19041.2130
+C:\Windows\SYSTEM32\OPENGL32.dll:OPENGL32.dll (00007FFD50190000), size: 1200128 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\OPENGL32.dll', fileVersion: 6.2.19041.2193
+C:\Windows\System32\combase.dll:combase.dll (00007FFD93EF0000), size: 3489792 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\combase.dll', fileVersion: 6.2.19041.2130
+C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\tinyxml2.dll:tinyxml2.dll (00007FFD88930000), size: 110592 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\tinyxml2.dll'
+C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\glew32.dll:glew32.dll (00000000775B0000), size: 540672 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\glew32.dll', fileVersion: 2.2.0.0
+C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\FreeImage.dll:FreeImage.dll (00007FFD70410000), size: 954368 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\FreeImage.dll', fileVersion: 3.18.0.0
+C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\Qt5Svg.dll:Qt5Svg.dll (00007FFD72850000), size: 344064 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\Qt5Svg.dll', fileVersion: 5.15.2.0
+C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\Qt5Gui.dll:Qt5Gui.dll (00007FFD390E0000), size: 7057408 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\Qt5Gui.dll', fileVersion: 5.15.2.0
+C:\Windows\System32\ole32.dll:ole32.dll (00007FFD94250000), size: 1220608 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\ole32.dll', fileVersion: 6.2.19041.1202
+C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\miniz.dll:miniz.dll (00007FFD7A700000), size: 102400 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\miniz.dll'
+C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\Qt5Widgets.dll:Qt5Widgets.dll (00007FFD3A730000), size: 5509120 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\Qt5Widgets.dll', fileVersion: 5.15.2.0
+C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\fmt.dll:fmt.dll (00007FFD795B0000), size: 151552 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\fmt.dll'
+C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\freetype.dll:freetype.dll (00007FFD701C0000), size: 692224 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\freetype.dll', fileVersion: 2.11.1.0
+C:\Windows\SYSTEM32\VERSION.dll:VERSION.dll (00007FFD88DE0000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\VERSION.dll', fileVersion: 6.2.19041.546
+C:\Windows\SYSTEM32\CONCRT140.dll:CONCRT140.dll (00007FFD76800000), size: 319488 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\CONCRT140.dll', fileVersion: 14.32.31332.0
+C:\Windows\SYSTEM32\VCRUNTIME140.dll:VCRUNTIME140.dll (00007FFD79620000), size: 110592 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\VCRUNTIME140.dll', fileVersion: 14.32.31332.0
+C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\Qt5Core.dll:Qt5Core.dll (00007FFD382D0000), size: 6053888 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\Qt5Core.dll', fileVersion: 5.15.2.0
+C:\Windows\System32\WS2_32.dll:WS2_32.dll (00007FFD94F80000), size: 438272 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\WS2_32.dll', fileVersion: 6.2.19041.546
+C:\Windows\SYSTEM32\GLU32.dll:GLU32.dll (00007FFD51150000), size: 180224 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\GLU32.dll', fileVersion: 6.2.19041.2193
+C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\zlib1.dll:zlib1.dll (00007FFD78800000), size: 106496 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\zlib1.dll', fileVersion: 1.2.11.0
+C:\Windows\SYSTEM32\MSVCP140.dll:MSVCP140.dll (00007FFD73CC0000), size: 581632 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MSVCP140.dll', fileVersion: 14.32.31332.0
+C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\tiff.dll:tiff.dll (00007FFD70390000), size: 462848 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\tiff.dll'
+C:\Windows\SYSTEM32\VCRUNTIME140_1.dll:VCRUNTIME140_1.dll (00007FFD73D50000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\VCRUNTIME140_1.dll', fileVersion: 14.32.31332.0
+C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\jpeg62.dll:jpeg62.dll (00007FFD6F330000), size: 634880 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\jpeg62.dll', fileVersion: 62.3.0.0
+C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\libwebpmux.dll:libwebpmux.dll (00007FFD855C0000), size: 57344 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\libwebpmux.dll'
+C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\webpdecoder.dll:webpdecoder.dll (00007FFD75E70000), size: 176128 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\webpdecoder.dll'
+C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\libpng16.dll:libpng16.dll (00007FFD75DD0000), size: 217088 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\libpng16.dll'
+C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\raw.dll:raw.dll (00007FFD6F240000), size: 978944 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\raw.dll'
+C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\webp.dll:webp.dll (00007FFD70150000), size: 397312 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\webp.dll'
+C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\openjp2.dll:openjp2.dll (00007FFD6F450000), size: 331776 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\openjp2.dll'
+C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\Iex-2_5.dll:Iex-2_5.dll (00007FFD6DE50000), size: 245760 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\Iex-2_5.dll'
+C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\IlmImf-2_5.dll:IlmImf-2_5.dll (00007FFD6B420000), size: 2744320 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\IlmImf-2_5.dll'
+C:\Windows\SYSTEM32\d3d11.dll:d3d11.dll (00007FFD8AE90000), size: 2502656 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\d3d11.dll', fileVersion: 6.2.19041.2075
+C:\Windows\SYSTEM32\dxgi.dll:dxgi.dll (00007FFD91110000), size: 995328 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dxgi.dll', fileVersion: 6.2.19041.2075
+C:\Windows\SYSTEM32\dwmapi.dll:dwmapi.dll (00007FFD90070000), size: 192512 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dwmapi.dll', fileVersion: 6.2.19041.746
+C:\Windows\SYSTEM32\UxTheme.dll:UxTheme.dll (00007FFD8D310000), size: 647168 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\UxTheme.dll', fileVersion: 6.2.19041.2193
+C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\bz2.dll:bz2.dll (00007FFD72630000), size: 98304 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\bz2.dll'
+C:\Windows\SYSTEM32\MPR.dll:MPR.dll (00007FFD78EE0000), size: 118784 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MPR.dll', fileVersion: 6.2.19041.1806
+C:\Windows\SYSTEM32\USERENV.dll:USERENV.dll (00007FFD92750000), size: 188416 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\USERENV.dll', fileVersion: 6.2.19041.572
+C:\Windows\SYSTEM32\NETAPI32.dll:NETAPI32.dll (00007FFD790B0000), size: 102400 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\NETAPI32.dll', fileVersion: 6.2.19041.2130
+C:\Windows\SYSTEM32\WINMM.dll:WINMM.dll (00007FFD7ADC0000), size: 159744 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINMM.dll', fileVersion: 6.2.19041.546
+C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\Half-2_5.dll:Half-2_5.dll (00007FFD6DDC0000), size: 299008 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\Half-2_5.dll'
+C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\brotlidec.dll:brotlidec.dll (00007FFD7A6F0000), size: 65536 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\brotlidec.dll'
+C:\Windows\SYSTEM32\MSVCP140_1.dll:MSVCP140_1.dll (00007FFD17520000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MSVCP140_1.dll', fileVersion: 14.32.31332.0
+C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\liblzma.dll:liblzma.dll (00007FFD72340000), size: 172032 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\liblzma.dll', fileVersion: 5.2.5.0
+C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\lcms2.dll:lcms2.dll (00007FFD6DD60000), size: 368640 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\lcms2.dll'
+C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\jasper.dll:jasper.dll (00007FFD6DD10000), size: 290816 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\jasper.dll'
+C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\IlmThread-2_5.dll:IlmThread-2_5.dll (00007FFD7A610000), size: 57344 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\IlmThread-2_5.dll'
+C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\Imath-2_5.dll:Imath-2_5.dll (00007FFD72520000), size: 106496 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\Imath-2_5.dll'
+C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\brotlicommon.dll:brotlicommon.dll (00007FFD6F070000), size: 159744 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\brotlicommon.dll'
+C:\Windows\SYSTEM32\NETUTILS.DLL:NETUTILS.DLL (00007FFD91CF0000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\NETUTILS.DLL', fileVersion: 6.2.19041.546
+C:\Windows\SYSTEM32\SRVCLI.DLL:SRVCLI.DLL (00007FFD7ED30000), size: 163840 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\SRVCLI.DLL', fileVersion: 6.2.19041.1645
+C:\Windows\SYSTEM32\CRYPTBASE.DLL:CRYPTBASE.DLL (00007FFD92200000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\CRYPTBASE.DLL', fileVersion: 6.2.19041.546
+C:\Windows\System32\IMM32.DLL:IMM32.DLL (00007FFD94D10000), size: 204800 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\IMM32.DLL', fileVersion: 6.2.19041.2193
+C:\Windows\System32\shcore.dll:shcore.dll (00007FFD94630000), size: 708608 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\shcore.dll', fileVersion: 6.2.19041.1865
+C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\platforms\qwindows.dll:qwindows.dll (00007FFD69610000), size: 1495040 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\platforms\qwindows.dll', fileVersion: 5.15.2.0
+C:\Windows\System32\OLEAUT32.dll:OLEAUT32.dll (00007FFD94DE0000), size: 839680 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\OLEAUT32.dll', fileVersion: 6.2.19041.985
+C:\Windows\SYSTEM32\WTSAPI32.dll:WTSAPI32.dll (00007FFD8AAC0000), size: 81920 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WTSAPI32.dll', fileVersion: 6.2.19041.546
+C:\Windows\SYSTEM32\kernel.appcore.dll:kernel.appcore.dll (00007FFD910A0000), size: 73728 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\kernel.appcore.dll', fileVersion: 6.2.19041.546
+C:\Windows\System32\bcryptPrimitives.dll:bcryptPrimitives.dll (00007FFD92FA0000), size: 532480 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\bcryptPrimitives.dll', fileVersion: 6.2.19041.1415
+C:\Windows\SYSTEM32\windows.storage.dll:windows.storage.dll (00007FFD90540000), size: 7938048 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\windows.storage.dll', fileVersion: 6.2.19041.2251
+C:\Windows\SYSTEM32\Wldp.dll:Wldp.dll (00007FFD922B0000), size: 196608 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\Wldp.dll', fileVersion: 6.2.19041.2075
+C:\Windows\System32\shlwapi.dll:shlwapi.dll (00007FFD93D60000), size: 348160 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\shlwapi.dll', fileVersion: 6.2.19041.2075
+C:\Windows\SYSTEM32\profapi.dll:profapi.dll (00007FFD92790000), size: 126976 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\SYSTEM32\profapi.dll', fileVersion: 6.2.19041.844
+C:\Windows\SYSTEM32\powrprof.dll:powrprof.dll (00007FFD91DD0000), size: 307200 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\powrprof.dll', fileVersion: 6.2.19041.546
+C:\Windows\SYSTEM32\UMPDC.dll:UMPDC.dll (00007FFD91C90000), size: 73728 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\UMPDC.dll'
+C:\Windows\system32\d3d9.dll:d3d9.dll (00007FFD7E8F0000), size: 1896448 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\d3d9.dll', fileVersion: 6.2.19041.2075
+C:\Windows\System32\bcrypt.dll:bcrypt.dll (00007FFD929E0000), size: 159744 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\bcrypt.dll', fileVersion: 6.2.19041.1023
+C:\Windows\System32\MSCTF.dll:MSCTF.dll (00007FFD94FF0000), size: 1134592 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\MSCTF.dll', fileVersion: 6.2.19041.2193
+C:\Windows\System32\clbcatq.dll:clbcatq.dll (00007FFD94700000), size: 716800 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\clbcatq.dll', fileVersion: 2001.12.10941.16384
+C:\Windows\System32\AppXDeploymentClient.dll:AppXDeploymentClient.dll (00007FFD896D0000), size: 1011712 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\AppXDeploymentClient.dll', fileVersion: 6.2.19041.2075
+C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_e248cb521a75faf7\igxelpicd64.dll:igxelpicd64.dll (00007FFD321A0000), size: 16343040 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_e248cb521a75faf7\igxelpicd64.dll', fileVersion: 27.20.100.9565
+C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_e248cb521a75faf7\igdml64.dll:igdml64.dll (00007FFD3FB10000), size: 4231168 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_e248cb521a75faf7\igdml64.dll', fileVersion: 27.20.100.9565
+C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_e248cb521a75faf7\igdgmm64.dll:igdgmm64.dll (00007FFD81E30000), size: 3346432 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_e248cb521a75faf7\igdgmm64.dll', fileVersion: 27.20.100.9565
+C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_e248cb521a75faf7\igc64.dll:igc64.dll (00007FFD7EFB0000), size: 47431680 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_e248cb521a75faf7\igc64.dll', fileVersion: 27.20.100.9565
+C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\styles\qwindowsvistastyle.dll:qwindowsvistastyle.dll (00007FFD6DCE0000), size: 155648 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Barrett\Desktop\School\quake-leveldesign-starterkit-1.15.0\trenchbroom\styles\qwindowsvistastyle.dll', fileVersion: 5.15.2.0
+C:\Windows\system32\dwrite.dll:dwrite.dll (00007FFD7DF70000), size: 2617344 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\dwrite.dll', fileVersion: 6.2.19041.1566
+C:\Windows\system32\dataexchange.dll:dataexchange.dll (00007FFD51110000), size: 253952 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\dataexchange.dll', fileVersion: 6.2.19041.1387
+C:\Windows\system32\dcomp.dll:dcomp.dll (00007FFD8C030000), size: 1978368 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\dcomp.dll', fileVersion: 6.2.19041.2075
+C:\Windows\system32\twinapi.appcore.dll:twinapi.appcore.dll (00007FFD88A10000), size: 2097152 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\twinapi.appcore.dll', fileVersion: 6.2.19041.1865
+C:\Windows\SYSTEM32\textinputframework.dll:textinputframework.dll (00007FFD84F00000), size: 1019904 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\textinputframework.dll', fileVersion: 6.2.19041.2075
+C:\Windows\System32\CoreUIComponents.dll:CoreUIComponents.dll (00007FFD8C220000), size: 3530752 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\CoreUIComponents.dll', fileVersion: 6.2.19041.546
+C:\Windows\System32\CoreMessaging.dll:CoreMessaging.dll (00007FFD8C980000), size: 991232 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\CoreMessaging.dll', fileVersion: 6.2.19041.2193
+C:\Windows\SYSTEM32\ntmarta.dll:ntmarta.dll (00007FFD91A00000), size: 208896 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ntmarta.dll', fileVersion: 6.2.19041.546
+C:\Windows\SYSTEM32\wintypes.dll:wintypes.dll (00007FFD8AD30000), size: 1392640 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\wintypes.dll', fileVersion: 6.2.19041.2130
+C:\Windows\SYSTEM32\edputil.dll:edputil.dll (00007FFD4FE80000), size: 147456 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\edputil.dll', fileVersion: 6.2.19041.546
+C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1110_none_60b5254171f9507e\comctl32.dll:comctl32.dll (00007FFD7A970000), size: 2727936 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1110_none_60b5254171f9507e\comctl32.dll', fileVersion: 6.10.19041.1110
+C:\Windows\SYSTEM32\WindowsCodecs.dll:WindowsCodecs.dll (00007FFD884C0000), size: 1785856 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WindowsCodecs.dll', fileVersion: 6.2.19041.1706
+C:\Windows\SYSTEM32\msasn1.dll:msasn1.dll (00007FFD92440000), size: 73728 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\msasn1.dll', fileVersion: 6.2.19041.2251
+C:\Windows\SYSTEM32\cryptnet.dll:cryptnet.dll (00007FFD87740000), size: 200704 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\cryptnet.dll', fileVersion: 6.2.19041.906
+C:\Windows\System32\CRYPT32.dll:CRYPT32.dll (00007FFD92AC0000), size: 1400832 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\CRYPT32.dll', fileVersion: 6.2.19041.1889
+C:\Windows\SYSTEM32\CRYPTSP.dll:CRYPTSP.dll (00007FFD92210000), size: 98304 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\CRYPTSP.dll', fileVersion: 6.2.19041.546
+C:\Windows\system32\rsaenh.dll:rsaenh.dll (00007FFD918C0000), size: 212992 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\rsaenh.dll', fileVersion: 6.2.19041.1052
+C:\Windows\SYSTEM32\TextShaping.dll:TextShaping.dll (00007FFD78460000), size: 704512 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\TextShaping.dll'
+C:\Windows\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FFD90DA0000), size: 1982464 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dbghelp.dll', fileVersion: 6.2.19041.867
+C:\Windows\SYSTEM32\SspiCli.dll:SspiCli.dll (00007FFD92710000), size: 204800 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\SspiCli.dll', fileVersion: 6.2.19041.2130
+ERROR: SymGetSymFromAddr64, GetLastError: 487 (Address: 00007FFD321BF192)
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFD321BF192)
+00007FFD321BF192 (igxelpicd64): (filename not available): (function-name not available)
+ERROR: SymGetSymFromAddr64, GetLastError: 487 (Address: 00007FFD321B50BA)
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFD321B50BA)
+00007FFD321B50BA (igxelpicd64): (filename not available): (function-name not available)
+ERROR: SymGetSymFromAddr64, GetLastError: 487 (Address: 00007FFD32303CB2)
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFD32303CB2)
+00007FFD32303CB2 (igxelpicd64): (filename not available): (function-name not available)
+ERROR: SymGetSymFromAddr64, GetLastError: 487 (Address: 00007FFD32417ED0)
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFD32417ED0)
+00007FFD32417ED0 (igxelpicd64): (filename not available): (function-name not available)
+ERROR: SymGetSymFromAddr64, GetLastError: 487 (Address: 00007FFD3241743D)
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFD3241743D)
+00007FFD3241743D (igxelpicd64): (filename not available): (function-name not available)
+ERROR: SymGetSymFromAddr64, GetLastError: 487 (Address: 00007FFD32419501)
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFD32419501)
+00007FFD32419501 (igxelpicd64): (filename not available): (function-name not available)
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFD324A5D57)
+00007FFD324A5D57 (igxelpicd64): (filename not available): DrvValidateVersion
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FF7F4D96062)
+00007FF7F4D96062 (TrenchBroom): (filename not available): TrenchBroom::Renderer::VertexArray::render
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FF7F4D664B1)
+00007FF7F4D664B1 (TrenchBroom): (filename not available): TrenchBroom::Renderer::IndexRangeMap::render
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FF7F4D50EE2)
+00007FF7F4D50EE2 (TrenchBroom): (filename not available): TrenchBroom::Renderer::EdgeRenderer::RenderBase::renderEdges
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FF7F4D5138A)
+00007FF7F4D5138A (TrenchBroom): (filename not available): TrenchBroom::Renderer::DirectEdgeRenderer::Render::doRender
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FF7F4D7FFDE)
+00007FF7F4D7FFDE (TrenchBroom): (filename not available): TrenchBroom::Renderer::RenderBatch::render
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FF7F4EEC48F)
+00007FF7F4EEC48F (TrenchBroom): (filename not available): TrenchBroom::View::MapViewBase::doRender
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FF7F4F05E77)
+00007FF7F4F05E77 (TrenchBroom): (filename not available): TrenchBroom::View::RenderView::paintGL
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFD3A79486E)
+00007FFD3A79486E (Qt5Widgets): (filename not available): QOpenGLWidget::redirected
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFD3A767DFA)
+00007FFD3A767DFA (Qt5Widgets): (filename not available): QWidget::event
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFD3A744990)
+00007FFD3A744990 (Qt5Widgets): (filename not available): QApplicationPrivate::notify_helper
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFD3A743A13)
+00007FFD3A743A13 (Qt5Widgets): (filename not available): QApplication::notify
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FF7F4F87B2A)
+00007FF7F4F87B2A (TrenchBroom): (filename not available): TrenchBroom::View::TrenchBroomApp::notify
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFD384A2ACA)
+00007FFD384A2ACA (Qt5Core): (filename not available): QCoreApplication::notifyInternal2
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFD3A76740E)
+00007FFD3A76740E (Qt5Widgets): (filename not available): QWidgetPrivate::drawWidget
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFD3A76D397)
+00007FFD3A76D397 (Qt5Widgets): (filename not available): QWidgetPrivate::paintSiblingsRecursive
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFD3A767567)
+00007FFD3A767567 (Qt5Widgets): (filename not available): QWidgetPrivate::drawWidget
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFD3A76D397)
+00007FFD3A76D397 (Qt5Widgets): (filename not available): QWidgetPrivate::paintSiblingsRecursive
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFD3A767567)
+00007FFD3A767567 (Qt5Widgets): (filename not available): QWidgetPrivate::drawWidget
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFD3A76D397)
+00007FFD3A76D397 (Qt5Widgets): (filename not available): QWidgetPrivate::paintSiblingsRecursive
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFD3A767567)
+00007FFD3A767567 (Qt5Widgets): (filename not available): QWidgetPrivate::drawWidget
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFD3A76D397)
+00007FFD3A76D397 (Qt5Widgets): (filename not available): QWidgetPrivate::paintSiblingsRecursive
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFD3A76D2C5)
+00007FFD3A76D2C5 (Qt5Widgets): (filename not available): QWidgetPrivate::paintSiblingsRecursive
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFD3A767567)
+00007FFD3A767567 (Qt5Widgets): (filename not available): QWidgetPrivate::drawWidget
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFD3A76D397)
+00007FFD3A76D397 (Qt5Widgets): (filename not available): QWidgetPrivate::paintSiblingsRecursive
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFD3A767567)
+00007FFD3A767567 (Qt5Widgets): (filename not available): QWidgetPrivate::drawWidget
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFD3A76D397)
+00007FFD3A76D397 (Qt5Widgets): (filename not available): QWidgetPrivate::paintSiblingsRecursive
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFD3A767567)
+00007FFD3A767567 (Qt5Widgets): (filename not available): QWidgetPrivate::drawWidget
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFD3A74F7C6)
+00007FFD3A74F7C6 (Qt5Widgets): (filename not available): QWidgetPrivate::moveRect
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFD3A76822F)
+00007FFD3A76822F (Qt5Widgets): (filename not available): QWidget::event
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFD3A744990)
+00007FFD3A744990 (Qt5Widgets): (filename not available): QApplicationPrivate::notify_helper
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFD3A743A13)
+00007FFD3A743A13 (Qt5Widgets): (filename not available): QApplication::notify
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FF7F4F87B2A)
+00007FF7F4F87B2A (TrenchBroom): (filename not available): TrenchBroom::View::TrenchBroomApp::notify
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFD384A2ACA)
+00007FFD384A2ACA (Qt5Core): (filename not available): QCoreApplication::notifyInternal2
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFD384A4845)
+00007FFD384A4845 (Qt5Core): (filename not available): QCoreApplicationPrivate::sendPostedEvents
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFD69672DFF)
+00007FFD69672DFF (qwindows): (filename not available): qt_plugin_query_metadata
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFD384EBA5A)
+00007FFD384EBA5A (Qt5Core): (filename not available): QEventDispatcherWin32::processEvents
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFD69672DD9)
+00007FFD69672DD9 (qwindows): (filename not available): qt_plugin_query_metadata
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFD3849EF2C)
+00007FFD3849EF2C (Qt5Core): (filename not available): QEventLoop::exec
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFD384A1A94)
+00007FFD384A1A94 (Qt5Core): (filename not available): QCoreApplication::exec
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FF7F4B71383)
+00007FF7F4B71383 (TrenchBroom): (filename not available): main
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FF7F4F9B637)
+00007FF7F4F9B637 (TrenchBroom): (filename not available): WinMain
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FF7F4F9AA26)
+00007FF7F4F9AA26 (TrenchBroom): (filename not available): __scrt_common_main_seh
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFD94ED74B4)
+00007FFD94ED74B4 (KERNEL32): (filename not available): BaseThreadInitThunk
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFD951A26A1)
+00007FFD951A26A1 (ntdll): (filename not available): RtlUserThreadStart
+
